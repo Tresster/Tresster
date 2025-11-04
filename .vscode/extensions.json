@@ -1,0 +1,15 @@
+{
+  "recommendations": [
+    // Project
+    "esbenp.prettier-vscode",
+
+    // Syntax
+    "streetsidesoftware.code-spell-checker",
+    "DavidAnson.vscode-markdownlint",
+
+    // Extras
+    "vscode-icons-team.vscode-icons",
+    "aaron-bond.better-comments"
+  ],
+  "unwantedRecommendations": []
+}

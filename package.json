@@ -1,0 +1,36 @@
+{
+  "name": "tresster",
+  "version": "1.0.0",
+  "private": true,
+  "description": ".",
+  "keywords": [
+    "."
+  ],
+  "homepage": "https://github.com/Tresster/Tresster#README.md",
+  "bugs": {
+    "url": "https://github.com/Tresster/Tresster/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tresster/Tresster.git"
+  },
+  "license": "MIT",
+  "author": "Tresster",
+  "type": "module",
+  "main": "README.md",
+  "scripts": {
+    "prepare": "node .husky/install.js",
+    "prettier": "prettier . --write",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "husky": "^9.1.7",
+    "markdownlint": "0.39.0",
+    "prettier": "^3.6.2",
+    "prettier-plugin-sh": "0.18.0"
+  },
+  "engines": {
+    "node": "v25.1.0",
+    "npm": ">=11.6.2"
+  }
+}
