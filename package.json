@@ -19,7 +19,7 @@
   "type": "module",
   "main": "README.md",
   "scripts": {
-    "prepare": "node .husky/install.js",
+    "prepare": "husky",
     "prettier": "prettier . --write",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
