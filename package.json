@@ -14,6 +14,10 @@
     "type": "git",
     "url": "git+https://github.com/Tresster/Tresster.git"
   },
+  "funding": {
+    "type": "github",
+    "url": "https://github.com/sponsors/Tresster"
+  },
   "license": "MIT",
   "author": "Tresster",
   "type": "module",
